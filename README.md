@@ -13,6 +13,8 @@ Provide an easy and secure booking platform with competitive prices and special 
 
 Highlight important historical sites, museums, and landmarks.
 
+Contributor:
+
+A Prithvi
 
 
-![image](https://github.com/SajeevSenthil/SajeevSenthil.github.io/assets/167018420/a7abd916-8d91-4809-a49a-b07d2ff200f2)
